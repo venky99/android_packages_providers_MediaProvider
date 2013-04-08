@@ -30,4 +30,14 @@
     <!-- Ask to scan on boot -->
     <string name="ask_scan_title">Scan for new media?</string>
     <string name="ask_scan_text">Click to manually trigger media scan</string>
+
+    <!-- Choice in the ringtone picker.  If chosen, the default ringtone will be used. -->
+    <string name="ringtone_default">Default ringtone</string>
+
+    <!-- Choice in the notification sound picker.  If chosen, the default notification sound will be
+         used. -->
+    <string name="notification_sound_default">Default notification sound</string>
+
+    <!-- Choice in the alarm sound picker.  If chosen, the default alarm sound will be used. -->
+    <string name="alarm_sound_default">Default alarm sound</string>
 </resources>
