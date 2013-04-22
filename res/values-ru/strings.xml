@@ -20,4 +20,7 @@
     <string name="app_label" msgid="581696352855930028">"Хранилище мультимедиа"</string>
     <string name="upgrade_msg" msgid="4093462661265175619">"Обновление базы данных мультимедиа..."</string>
     <string name="artist_label" msgid="1181678850424271227">"Исполнитель"</string>
+    <!-- Ask to scan on boot -->
+    <string name="ask_scan_title">Сканировать медиа-контент?</string>
+    <string name="ask_scan_text">Нажмите для запуска сканирования</string>
 </resources>
